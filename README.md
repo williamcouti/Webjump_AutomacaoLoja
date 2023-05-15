@@ -57,34 +57,34 @@ git clone https://github.com/williamcouti/Webjump_AutomacaoLoja.git
 
 O projeto segue a seguinte estrutura de diretórios:
 
-├── cypress
-│ ├── downloads
-│ ├── e2e
-│ │ └── adicionarprodutocarrinho.cy.js
-│ │ └── cadastrousuario.cy.js
-│ │ └── login.cy.js
-│ │ └── verificaacessoaosite.cy.js
-│ ├── fixures
-│ └── support
-│ ├── pages
-  │ ├── acessoaosite
-  │ │ └── siteelementos.js
-  │ │ └── siteindex.js
-  │ ├── adicionarprodutocarrinho
-  │ │ └── carrinhoelementos.js
-  │ │ └── carrinhoindex.js
-  │ ├── cadastrousuario
-  │ │ └── cadastroelementos.js
-  │ │ └── cadastroindex.js
-  │ ├── login
-  │ │ └── loginelementos
-  │ │ └── loginindex.js
-│ └── utils
-├── node_modules
-├── .gitignore
-├── cypress.json
-├── package.json
-└── README.md
+##├── cypress
+##│ ├── downloads
+##│ ├── e2e
+##│ │ └── adicionarprodutocarrinho.cy.js
+##│ │ └── cadastrousuario.cy.js
+##│ │ └── login.cy.js
+##│ │ └── verificaacessoaosite.cy.js
+##│ ├── fixures
+##│ └── support
+##│ ├── pages
+##│ ├── acessoaosite
+##│ │ └── siteelementos.js
+##│ │ └── siteindex.js
+##│ ├── adicionarprodutocarrinho
+##│ │ └── carrinhoelementos.js
+##│ │ └── carrinhoindex.js
+##│ ├── cadastrousuario
+##│ │ └── cadastroelementos.js
+##│ │ └── cadastroindex.js
+##│ ├── login
+##│ │ └── loginelementos
+##│ │ └── loginindex.js
+##│ └── utils
+##├── node_modules
+##├── .gitignore
+##├── cypress.json
+##├── package.json
+##└── README.md
 
 - O diretório `e2e` contém arquivos de dados usados nos testes.
 - O diretório `fixures` contém os arquivos de teste escritos usando a sintaxe do Cypress.
