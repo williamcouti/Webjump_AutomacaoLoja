@@ -1,6 +1,6 @@
 # Automação de Testes - Webjump Loja Veio
 
-Este é um projeto de automação de testes desenvolvido para realizar testes automatizados em uma aplicação web usando a ferramenta Cypress e Node.
+Este é um projeto de automação de testes desenvolvido para realizar testes automatizados em uma aplicação web usando a ferramenta Cypress.js e Node.js.
 
 ## Pré-requisitos
 
@@ -41,7 +41,7 @@ de extensões do Visual Studio Code.
 
 1. Faça o clone deste repositório para o seu ambiente local:
 
-git clone wegwevwe@@@
+git clone https://github.com/williamcouti/Webjump_AutomacaoLoja.git
 
 2. Acesse o diretório do projeto:
 
