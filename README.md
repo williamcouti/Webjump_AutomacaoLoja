@@ -57,6 +57,7 @@ git clone https://github.com/williamcouti/Webjump_AutomacaoLoja.git
 
 O projeto segue a seguinte estrutura de diretórios:
 
+
 ├── cypress
 │ ├── downloads
 │ ├── e2e
